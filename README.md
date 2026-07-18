@@ -1,2 +1,2 @@
 
-![chippy](https://github.com/XyuumiArts/chippy/blob/34428015821efe66a41f37d150f22248bda85be8/chipp.png)
+![chippy]https://github.com/XyuumiArts/chippy/blob/99ead5018b75a1a1e661264007edaf3a21f05f8e/chipp.png

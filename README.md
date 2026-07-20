@@ -21,7 +21,7 @@
     <p> ✧ Digi Artist, either mouse on ms paint & thumb artist in ibispaint phone
     <p> ✧ fndom int: resi evil (primary), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
     <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka)
-    <p> ✧ comf kin: chippy and null (ocs), orcas (mammal,dolphins)
+    <p> ✧ comf kin: chippy, null, ashe (ocs) uu theyre so dear to me
        </div>
 </details>
 

@@ -4,12 +4,16 @@
   <p align=center>  ────────────────────────── .✦
    <details>
    <summary><ins>✦︎ "That Orange Cat" ✦︎</ins></summary>
-      <div align="center"> 
-        <p> ✧ ponytown; LOVELOVE cuddles, kiss n compliments !! 
-        <p> ✧ might be dry sometimes, i dont mean it :‹
-        <p> ✧ would love new luvoomfs, but im too socially anxious... I latch onto luvoomfs easily, w2i pref. ‹𝟹
-        <p> ✧ can get socially inept n boring, i do things before thinking so umm im actively working on that ok... plz take me slow
-          </div>
+       <div align="center">
+    <p> ✧ I rlly like warm tints of orange.. too much.
+    <p> ✧ 26/8/2009. 
+    <p> ✧ fndom int: resi evil (primary, NEED RE MOOTS), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
+    <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka)
+    <p> ✧ comf kin: chippy and null (ocs) uu theyre so dear to me
+       </div>
+</details>
+
+<br>
 </details>
 <br>
    <p align=center> 
@@ -17,16 +21,16 @@
 </p>
  <p align=center>  ────────────────────────── .✦
 <details>
-  <summary><ins> Xyumilovesu!!‹𝟹 </ins></summary>
-
-  <div align="center">
-    <p> ✧ Digi Artist, either mouse on ms paint & thumb artist in ibispaint phone
-    <p> ✧ fndom int: resi evil (primary), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
-    <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka)
-    <p> ✧ comf kin: chippy, null, ashe (ocs) uu theyre so dear to me
-       </div>
+  <summary><ins> ⸝⸝ About PT!! </ins></summary>
+      <div align="center"> 
+        <p> ✧ ponytown; LOVELOVELOVE cuddles [even offtb, afk], kiss n compliments !! i dont bite....
+        <p> ✧ W2I preferrably!! I get distracted in pub chats & I dont wanna miss a thing from u
+        <p> ✧ might be dry sometimes, i dont mean it :‹ 
+        <p> ✧ would love new luvoomfs & I do latch onto luvoomfs easily,, tho im "a man of few words" 
+        <p> ✧ can get socially inept n boring, i do things before thinking so umm im actively working on that ok... plz take me slow
+        <p> ✧ no hvy inspo/copy of skins... dont let me catch u on the streets son
+          </div>
 </details>
-
 <br>
 <p align="center">  
   <img src="skins.png" width="900">

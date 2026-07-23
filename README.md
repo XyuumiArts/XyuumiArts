@@ -31,15 +31,31 @@
 <br>
 <div align="center">
 <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/chiihachi" alt="Header" width="1000">
- <p align=center>  ────────────────────────── .✦
+ <p align=center> ・・・・・・・・・・
 
 <details>
- <summary><ins> SKINS ★  </ins></summary>
+ <summary><ins> ・SKINS・ </ins></summary>
+  <p> ✧ no copying/hvy insp dont let me catch u on the streets son
+  <p> ✧ chippy & tinted RE/other fandoms cos skins hi thats me
   <p align=center> 
-  <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%231.gif" width="800">
+  <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%231.gif" width="400">
 </p>
  <p align=center> 
-  <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%232.gif" width="600">
+  <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%232.gif" width="400">
+</p>
+ <p align=center> 
+  <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%233.gif" width="400">
+</div>
+ <p align=center>  ・・・・・
+   
+<details>
+  <summary><ins> LUVLIES ♡ </ins></summary>
+ <p align=center> 
+  <img src="my chudling" width="900">
 </p>
  <p align=center> 
   <img src="luvly gift" width="900">
+  </div>
+</details>
+
+<br>

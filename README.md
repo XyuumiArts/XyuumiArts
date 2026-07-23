@@ -47,6 +47,10 @@
   <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/skin%20%233.gif" width="400">
 </div>
 
-<p align=center> everyone #follow <a href="[https://github.com/R0DRICK-HEFFLEY]"><kbd><b>LUVOOMF</b></kbd></a> everyone: follows w speed
-<p align=center> 
-  <img src="Screenshot 2026-07-19 150205.png" width="900">
+</p>
+
+<p align="center">
+ everyone #follow <a href="https://github.com/R0DRICK-HEFFLEY"><kbd><b>LUVOOMF</b></kbd></a> everyone: follows w speed
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">  <img src="Screenshot 2026-07-19 150205.png" width="1000">

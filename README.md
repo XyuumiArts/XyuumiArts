@@ -3,14 +3,12 @@
   <p align="center"> [art by me]
   <p align=center>  ────────────────────────── .✦
    <details>
-   <summary><ins>✦︎ "That Orange Cat" ✦︎</ins></summary>
+    <summary><ins> 「 ✦ INTRO ✦ 」 </ins></summary>
        <div align="center">
     <p> ✧ I rlly like warm tints of orange.. too much.
-    <p> ✧ 26/8/2009. 
     <p> ✧ can get socially inept or quiet, i do things before thinking so umm im actively working on that ok... plz take me slow uuu
     <p> ✧ fndom int: resi evil (primary, NEED RE MOOTS), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
-    <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka)
-    <p> ✧ comf kin: chippy and null (ocs) uu theyre so dear to me
+    <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka), chippy (oc sona)
        </div>
 </details>
 
@@ -22,21 +20,21 @@
 </p>
  <p align=center>  ────────────────────────── .✦
 <details>
-  <summary><ins> ⸝⸝ About PT!! </ins></summary>
+  <summary><ins> 「 ✦ ABOUT PT ✦ 」 </ins></summary>
       <div align="center"> 
-        <p> ✧ ponytown; LOVELOVELOVE cuddles [even offtb, afk], kiss n compliments !! i dont bite....
+        <p> ✧ LOVELOVELOVE cuddles [even offtb, afk], kiss n compliments !! jumps in joy
         <p> ✧ W2I preferrably!! I get distracted in pub chats & I dont wanna miss a thing from u
         <p> ✧ might be dry sometimes, i dont mean it :‹ my social battery hits the rock bottom im gen fr 
-        <p> ✧ would love new luvoomfs & I do latch onto luvoomfs easily,, tho im "a man of few words" 
-        <p> ✧ no hvy inspo/copy of skins... dont let me catch u on the streets son
+        <p> ✧ would love new luvoomfs & if im close I latch onto luvoomfs easily,, tho im "a man of few words" 
           </div>
 </details>
 <br>
 <div align="center">
 <img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/chiihachi" alt="Header" width="1000">
  <p align=center>  ────────────────────────── .✦
+
 <details>
-  <summary><ins> ✧˖ my luvoomfs/luvlys </ins></summary>
+ <summary><ins> SKINS ★  </ins></summary>
    <p align=center> 
   <img src="luvlies!!" width="900">
 </p>
@@ -48,4 +46,3 @@
 </p>
  <p align=center> 
   <img src="luvly gift" width="900">
-</p>

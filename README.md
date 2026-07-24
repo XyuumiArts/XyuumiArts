@@ -2,6 +2,8 @@
   <img src="e2acdeea478c1a00c75ce38ab0959483.jpg" width="420" />
 </p>
 <p align="center"> ${\color{#BDA699}"DSO.. \space U-uhh \space I'm \space Grace, \space Ashcroft, \space U-uh \space FBI."}$
+
+  
 <p align=center> 
   <img src="5796349d48f079898c3749788154addc.jpg" width="1000" height="20">
 

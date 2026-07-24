@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="e2acdeea478c1a00c75ce38ab0959483.jpg" width="420" />
+  <img src="3175967f0ac814ed0743700fd579c910.jpg" width="400" />
 </p>
 <p align="center"> ${\color{#BDA699}"DSO.. \space U-uhh \space I'm \space Grace, \space Ashcroft, \space U-uh \space FBI."}$
 

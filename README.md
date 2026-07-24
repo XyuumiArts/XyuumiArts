@@ -1,3 +1,4 @@
+<p align="center"> [ʙᴇᴛᴛᴇʀ ʟᴀʏᴏᴜᴛ ɪɴ ᴘᴄ]
 <p align="center">
   <img src="3175967f0ac814ed0743700fd579c910.jpg" width="290" />
 </p>
@@ -43,7 +44,7 @@
  <p align=center> ────────・・・ ✦ ・・・────────
 
 <p align="center">
-everyone #follow <a href="https://github.com/R0DRICK-HEFFLEY"><kbd><b>LUVOOMF</b></kbd></a> everyone: follows w speed
+everyone #follow <a href="https://github.com/R0DRICK-HEFFLEY"><kbd><b>LUVOOMF</b></kbd></a> everyone: follows
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">  <img src="Screenshot 2026-07-19 150205.png" width="600">

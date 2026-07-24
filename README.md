@@ -1,8 +1,8 @@
 <p align=center> 
-  <img src="5c329bbd18adf3299f55d20dc09eeb06.jpg" width="1000" height="100">
+  <img src="5c329bbd18adf3299f55d20dc09eeb06.jpg" width="850" height="110">
 
 <div align="center">
-<img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/1e4c3038f01844a1566e02973587c912.gif" alt="Header" width="1000">
+<img src="https://github.com/XyuumiArts/XyuumiArts/blob/main/1e4c3038f01844a1566e02973587c912.gif" alt="Header" width="890">
   <p align=center>  ────────────────・・・ ✦ ・・・────────────────
    <details>
     <summary><ins> 「 ✦ INTRO ✦ 」 </ins></summary>
@@ -18,7 +18,7 @@
 </details>
 <br>
    <p align=center> 
-  <img src="498b02bb7b4213760b1085f97e694383.jpg" width="1000">
+  <img src="498b02bb7b4213760b1085f97e694383.jpg" width="890">
 </p>
  <p align=center> ────────────────・・・ ✦ ・・・────────────────
 <details>
@@ -32,14 +32,14 @@
           </div>
 </details>
 <br>
-  <img src="welcome-sign-leon.webp" width="1000">
+  <img src="welcome-sign-leon.webp" width="890">
  <p align=center> ────────────────・・・ ✦ ・・・────────────────
 
 <p align="center">
  everyone #follow <a href="https://github.com/R0DRICK-HEFFLEY"><kbd><b>LUVOOMF</b></kbd></a> everyone: follows w speed
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">  <img src="Screenshot 2026-07-19 150205.png" width="1000">
+<p align="center">  <img src="Screenshot 2026-07-19 150205.png" width="600">
 
 <p align=center> 
-  <img src="926a672cf499c0c1168d2689d7e8f310.jpg" width="1000" height="100">
+  <img src="5c329bbd18adf3299f55d20dc09eeb06.jpg" width="850" height="110">

@@ -13,7 +13,7 @@
    <details>
     <summary><ins> 「 ✦ INTRO ✦ 」 </ins></summary>
        <div align="center">
-    <p> ${\color{#FC823D} that \space orange  \space cat.}$
+    <p> ${\color{#747F8F} "Wait, \space yo-\space your \space DSO, that's \space the \space u \space -uhh \space the\space the \space Counter-bioterrorism \space agency \space right?"}$
     <p> ✧ socially inept & quiet in nature, i do things before thinking so umm im actively working on that ok... plz take me slow uuu
     <p> ✧ fndom int: resi evil (primary, NEED RE MOOTS), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
     <p> ✧ mini comf kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka), chippy (oc sona)
@@ -30,10 +30,11 @@
 <details>
   <summary><ins> 「 ✦ ABOUT PT ✦ 」 </ins></summary>
       <div align="center"> 
+        <p> ${\color{#A8977D}"I-If \space you're \space so \space sick, \space why \space would \space you \space come \space here \space?"}$
         <p> ✧ LOVELOVELOVE cuddles [even offtb, afk], kiss n compliments !! jumps in joy
         <p> ✧ chippy & tinted RE/other fandoms cos skins hi thats me . DNC/hvy insp
         <p> ✧ W2I preferrably!! I get distracted in pub chats & I dont wanna miss a thing from u
-        <p> ✧ might be dry sometimes, i dont mean it :‹ my social battery hits the rock bottom im gen fr 
+        <p> ✧ dry texter, i dont mean it and u should too personally :‹ my social battery hits the rock bottom im gen fr 
         <p> ✧ would love new luvoomfs & if im close I latch onto luvoomfs easily,, tho im "a man of few words" 
           </div>
 </details>

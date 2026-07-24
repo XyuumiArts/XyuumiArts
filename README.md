@@ -14,9 +14,9 @@
     <summary><ins> 「 ✦ INTRO ✦ 」 </ins></summary>
        <div align="center">
     <p> ${\color{#FC823D} that \space orange  \space cat.}$
-    <p> ✧ can get socially inept or quiet, i do things before thinking so umm im actively working on that ok... plz take me slow uuu
+    <p> ✧ socially inept & quiet in nature, i do things before thinking so umm im actively working on that ok... plz take me slow uuu
     <p> ✧ fndom int: resi evil (primary, NEED RE MOOTS), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
-    <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka), chippy (oc sona)
+    <p> ✧ mini comf kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka), chippy (oc sona)
        </div>
 </details>
 

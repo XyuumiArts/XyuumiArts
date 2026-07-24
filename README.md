@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="e2acdeea478c1a00c75ce38ab0959483.jpg" width="420" />
+</p>
+<p align="center"> ${\color{#BDA699}"DSO.. \space U-uhh \space I'm \space Grace, \space Ashcroft, \space U-uh \space FBI."}$
 <p align=center> 
   <img src="5796349d48f079898c3749788154addc.jpg" width="1000" height="20">
 
@@ -7,7 +11,7 @@
    <details>
     <summary><ins> 「 ✦ INTRO ✦ 」 </ins></summary>
        <div align="center">
-    <p> ✧ I rlly like warm tints of orange.. too much.
+    <p> ${\color{#FC823D} that \space orange  \space cat.}$
     <p> ✧ can get socially inept or quiet, i do things before thinking so umm im actively working on that ok... plz take me slow uuu
     <p> ✧ fndom int: resi evil (primary, NEED RE MOOTS), chiikawa, proseka, alnst, etc. in fndom hibernation rn i kno its short
     <p> ✧ mini kins: grace ashcroft (RE: requiem), hachiware (chiikawa), kanade yoisaki (proseka), chippy (oc sona)
@@ -36,7 +40,7 @@
  <p align=center> ────────・・・ ✦ ・・・────────
 
 <p align="center">
- everyone #follow <a href="https://github.com/R0DRICK-HEFFLEY"><kbd><b>LUVOOMF</b></kbd></a> everyone: follows w speed
+everyone #follow <a href="https://github.com/R0DRICK-HEFFLEY"><kbd><b>LUVOOMF</b></kbd></a> everyone: follows w speed
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">  <img src="Screenshot 2026-07-19 150205.png" width="600">
